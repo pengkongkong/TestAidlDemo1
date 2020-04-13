@@ -1,2 +1,2 @@
-# TestAidlDemo1
-aidl线程通讯以及消息回调
+# 代码分析地址
+https://blog.csdn.net/pengguichu/article/details/105456309
